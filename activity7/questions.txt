@@ -1,0 +1,10 @@
+Q1: Arsenal is the best football team?;True
+Q2: Arsenal are a terrible team?;True
+Q3: This is a good quiz?;False
+Q4: Alliumphobia is a fear of garlic;True
+Q5: The sky is red;False
+Q6: Seriously, is this a good quiz?;False
+Q7: Am I fasting?;True
+Q8: Can I speak German?;False
+Q9: Kannst du mir helfen?;False
+Q10: Is this the end of the quiz?;True

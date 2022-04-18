@@ -17,7 +17,7 @@ do
 done
 
 matches=`fgrep -f $file1 $file2 | wc -l`
-echo $matches
+
 if ! [ $matches == 0 ]
 then
 	echo "These files have at leaset one common element."
